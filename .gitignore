@@ -1,0 +1,21 @@
+# Vivado project files
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.bin
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.vivado/
+*.webtalk/
+*.sim/
+*.Xil/
+*.tmp
+*.bak
+
+# Simulation output
+*.vcd
+*.wlf
