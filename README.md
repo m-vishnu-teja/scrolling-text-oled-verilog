@@ -25,7 +25,7 @@ The design uses a Verilog-based modular approach including FSMs, SPI display con
 | `TextScroller.v` | FSM logic for text shifting/scrolling behavior |
 | `Oled_Display.v` | OLED controller module with SPI-style interface |
 | `Font_ROM.v` | ROM with 8x8 font bitmap data |
-| `1.xdc` | Vivado constraints file for Basys pin mappings |
+| `constraints.xdc` | Vivado constraints file for Basys pin mappings |
 
 ---
 
