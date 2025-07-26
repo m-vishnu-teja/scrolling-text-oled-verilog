@@ -53,11 +53,6 @@ The design uses a Verilog-based modular approach including FSMs, SPI display con
 - Change color or Font Size at mentioned lines in the code
 
 ---
-
-## ⚠️ Disclaimer
-
-This project was completed by referencing multiple open-source projects and AI-assisted suggestions (ChatGPT, Perplexity, etc.) to learn Verilog and FPGA design. The focus was on **understanding, integrating, and building a working system**, not creating each module from scratch.
-
 ---
 
 ## 📜 License
